@@ -3,7 +3,7 @@
 
 This project simulates and compares two volatility-based options strategies using real market data from SPY (S&P 500 ETF):
 
-1. **Long Straddle Strategy** – A pure volatility bet, long call + long put at the same strike.
+1. **Long Straddle Strategy** - A pure volatility bet, long call + long put at the same strike.
 2. **Delta-Gamma Hedged Portfolio (Butterfly-style)** – A convex options strategy that is Delta-neutral but Gamma-exposed, constructed using real option chain data and Black-Scholes Greeks.
 
 ## What This Project Demonstrates
