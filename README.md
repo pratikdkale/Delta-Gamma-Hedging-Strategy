@@ -46,7 +46,4 @@ The notebook generates the following comparison plot:
 
 ![Strategy Comparison](./plots/strategy_comparison.png)
 
-## Author
-
-This project was built step-by-step from scratch, focused on intuition, real data application, and quant-style visualization.
 
