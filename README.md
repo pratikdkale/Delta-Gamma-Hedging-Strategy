@@ -37,7 +37,7 @@ This project simulates and compares two volatility-based options strategies usin
    ```
 3. Run the notebook:
    ```bash
-   jupyter notebook spy_delta_gamma_hedging.ipynb
+   jupyter notebook ./delta-gamma-hedging-strategy/spy_delta_gamma_hedging.ipynb
    ```
 
 ## Example Output
