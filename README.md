@@ -25,7 +25,7 @@ This project simulates and compares two volatility-based options strategies usin
 ## Files
 
 - `spy_delta_gamma_hedging.ipynb` – Notebook with data fetching, simulation, and plots
-- `spy_calls_chain.csv` – Option chain snapshot (optional save)
+- `spy_calls_chain.csv` – Option chain snapshot (optional)
 - `requirements.txt` – Dependencies to run the project
 
 ## How to Run
